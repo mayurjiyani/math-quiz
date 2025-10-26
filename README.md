@@ -2,10 +2,6 @@
 
 A real-time competitive math quiz application where multiple users compete to solve math problems. The first user to provide the correct answer wins points!
 
-## Live Demo
-
-[View Application](#) _(Add your deployment URL here)_
-
 ## Features
 
 -   **Real-time Competition**: Multiple users can compete simultaneously
@@ -135,20 +131,6 @@ Questions are generated programmatically with three difficulty levels:
 6. **Access the application**
     - Frontend: http://localhost:3000
     - Backend: http://localhost:3001
-
-## Deployment
-
-For detailed deployment instructions, see:
-
--   **[Railway Deployment Guide](./DEPLOY_RAILWAY.md)** - Recommended for easiest setup
--   **[Heroku + Vercel Deployment Guide](./DEPLOY_HEROKU_VERCEL.md)** - Alternative option
--   **[General Deployment Options](./DEPLOYMENT.md)** - Multiple platform options
-
-### Quick Start: Railway (Recommended)
-
-Railway offers the simplest deployment with built-in database and auto-deploy from GitHub.
-
-See [DEPLOY_RAILWAY.md](./DEPLOY_RAILWAY.md) for complete instructions.
 
 ## Configuration
 
